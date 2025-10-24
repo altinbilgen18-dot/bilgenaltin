@@ -7,7 +7,7 @@ import { MapPin, Clock, Phone } from "lucide-react"
 const salons = [
   {
     name: "VIONARE Beşiktaş",
-    address: "Barbaros Bulvarı No: 145, Beşiktaş, İstanbul",
+    address: "Nisbetiye Caddesi NO: 24, Beşiktaş, İstanbul",
     hours: "Pazartesi - Cumartesi: 09:00 - 20:00",
     phone: "+90 553 631 23 34",
     services: ["Cilt Bakımı", "Makyaj", "Kaş & Kirpik", "Masaj"],
