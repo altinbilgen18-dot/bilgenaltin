@@ -19,7 +19,10 @@ const lato = Lato({
 export const metadata: Metadata = {
   title: "VIONARE — Innovative Beauty & Personal Care",
   description: "Modern beauty solutions from Istanbul, Turkey",
-  generator: "v0.app",
+  icons: {
+    icon: '/icon.svg?v=2',
+    apple: '/icon.svg',
+  },
 }
 
 export default function RootLayout({
